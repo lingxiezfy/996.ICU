@@ -2,10 +2,10 @@
 **请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 违法加班制度是指违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点<sup>1</sup>，或加班加点超出法定时限（每日三小时或每月三十六小时）<sup>2</sup>，或未足额支付加班加点工资报酬（不低于工资的百分之一百五十）<sup>3</sup>的非法用工制度。
 
-1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
-2. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十三条
-3. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十四条
-4. [《中华人民共和国刑法修正案（八）》](http://www.npc.gov.cn/npc/xinwen/2011-02/25/content_1625679.htm)第四十一条
+1. [《中华人民共和国劳动法》](http://www.gov.cn/guoqing/2018-03/22/content_5276318.htm)第四章第四十一条
+2. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/c30834/201901/ffad2d4ae4da4585a041abf66e74753c.shtml)第四章第四十三条
+3. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/c30834/201901/ffad2d4ae4da4585a041abf66e74753c.shtml)第四章第四十四条
+4. [《中华人民共和国刑法修正案（八）》](http://www.npc.gov.cn/npc/c12488/201102/4d23bb93aae74fe98028f1ae68527899.shtml)第四十一条
 
 
 贡献指南
@@ -95,8 +95,18 @@
 |北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了|996| [看准网](https://www.kanzhun.com/pl5675303.html) |
 |北京|[快陪练](https://www.kuaipeilian.com)|2019年4月8日|996|[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)|
-|北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) |
-|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)|
+|深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
+|成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
+|北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
+|天津|[易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl6228054.html)| 
+|长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)| 
+|珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)
+|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)| 
+|太原|[辉讯网络技术有限公司](http://www.7zy.net/)|2019年3月|996|亲历 [考勤](https://i.loli.net/2019/04/11/5cae537484b5d.jpg) | 
+|上海|[上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)|2018年12月|996|[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk) | 
+|武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[图片](img/hxqc1.jpg)、[图片](img/hxqc2.jpg)、[图片](img/hxqc3.jpg)、[看准网](https://www.kanzhun.com/gso5662099.html)|
+|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年6月17日|单休|亲历+[大小休改单休！](img/sbs-大小周改单休.png)|
+|上海|[掌门一对一教育有限公司](https://www.zhangmen.com/)|2019年4月|大小周|[看准网](https://www.kanzhun.com/pl7018849.html)|
 |北京|[北京中广创思文化传播有限公司](http://www.cbct.cn/)|2019年4月|996/9107|[图片](img/北京中广创思9107钉钉截图.jpg)|
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
 |北京|[北京今始科技有限公司](https://linkface.cn/)|2019年3月|996、恶意裁员|[邮件截图](img/linkface-996.jpg )、[知乎](https://www.zhihu.com/question/300467880/answer/532121441)|
@@ -104,6 +114,8 @@
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)|
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
+|北京|[快手](https://kuaishou.com)|2019年6月18日|996|[腾讯新闻](https://new.qq.com/omn/20190619/20190619A0NKNM.html)
+|北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
@@ -136,6 +148,7 @@
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html)|[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)|
+|杭州|[悠书网络科技有限公司](http://www.77ad.com/)|2019年5月到7月底|9 6.5 5/每周强制加班8小时,每月不达标辞退|[内部截图](img/悠书科技网络有限公司1.jpg)、[内部截图](img/悠书科技网络有限公司2.jpg)|
 |武汉|[武汉小码联城科技有限公司](http://www.i-xiaoma.com)|2019年4月22日|995|年前年后各裁员一波<br>[钉钉截图](img/小码联城加班.png)|
 |武汉|[氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚<br>[考勤日历](img/timing360-0823.jpg)<br>[考勤规则](img/timing360-1201.jpg)|
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)|
@@ -168,7 +181,6 @@
 |深圳|[深圳聚力创想信息科技有限公司](https://www.qidianla.com/)|------|大小周、加班|[打卡通知1](img/qidianxueyuan1.jpg)、[打卡通知2](img/qidianxueyuan2.jpg)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
-|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
 |苏州|[顺舟智能](http://www.shuncom.com)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996、9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |苏州|[凌志软件股份有限公司](http://www.linkstec.com/)|2019年4月|996，9106，9116|[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)|
@@ -180,12 +192,13 @@
 |济南|[浪潮集团](http://www.inspur.com/)|-----|996|奋进者申请书 [996工作制](https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3)|
 |西安|[中软国际科技服务有限公司](http://www.chinasofti.com/)|2019年4月|996|[猎聘网](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |深圳|[紫优科技](https://www.zhipin.com/gongsir/7610a4892e11cc781XZ_09i1FA~~.html?ka=company-jobs)|2019年4月|9116| [公司老板发的招聘信息](img/深圳紫优科技.jpg)|
+|大连|[大连大连海大赢海科技有限公司](http://www.yinghaikeji.com/)|2019年9月|强制996、大小周| [内部群1](img/赢海科技-内部群截图1.png) [内部群2](img/赢海科技-内部群截图2.png) [内部群3](img/赢海科技-内部群截图3.png)|
 |上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
 |北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
 |深圳|深圳市蓝色海洋教育科技有限公司|2019年4月|996|一家2019年4月新成立的公司，明确996招聘 [招聘截图](img/lansehaiyang-boss.jpeg)|
 |广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
 |广西|广西安辰信息产业股份有限公司|2019年4月|大小周|[考勤时间截图，可提供制度文件](https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
-|深圳|[深圳市康拓普信息技术有限公司](https://www.szcomtop.com//)|2019年4月|996|亲历| 
+|深圳|[深圳市康拓普信息技术有限公司](https://www.szcomtop.com//)|2019年4月|9127|亲历| 
 |山东|潍柴动力股份有限公司/潍柴集团|2019年5月|无双休|[知乎问答1](http://www.zhihu.com/question/309984979)、 [知乎问答2](http://www.zhihu.com/question/270906947)|
 |深圳|深圳市金泰长丰科技有限公司|2019年5月|大小周、无加班工|[看准网](https://www.kanzhun.com/gsr6472604.html)|
 |重庆|重庆力华亘田科技有限公司|2019年5月|886计件，实际两周放一天假，没有加班费，法定假缩水。计时大小周，加班费不分法定假与周末，一律7元每小时。|[截图](https://i.loli.net/2019/05/05/5cce4fc86f789.jpg)|
@@ -221,3 +234,31 @@
 |广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
 |上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
 |南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo1.jpeg)，[ceo强调9962](img/ceo2.jpeg)|
+|成都|成都市极米科技有限公司|2019年6月|大小周、99|[公司群内通知](https://i.loli.net/2019/06/22/5d0dcde28d55045439.png)|
+|兰州|中电万维信息技术有限责任公司|2019年6月|996|[TIM截图](https://i.loli.net/2019/06/22/5d0dcf975ff1796946.png)[TIM截图](https://i.loli.net/2019/06/22/5d0dcf97c1d9342344.png)|
+|成都|成都洋葱新未来网络科技有限公司|2019年6月|9 10 6 无加班工资，工作日加班4小时第二天只能晚到30分钟，仅周末加班可调休|[考勤日历](https://i.loli.net/2019/06/22/5d0dd018e6b5033832.jpg)[考勤日历](https://i.loli.net/2019/06/22/5d0dd01990b2834188.jpg)|
+|成都、宁波、惠州|TCL通讯|2019年6月|提倡996、007，无加班工资|[动员令](img/tcl1.png)<br/>[微信公众号:JoyUI_2018每周速报](img/tcl2.png)|
+|深圳|中睿宏智汽车技术（深圳）有限公司|2019年6月|995并且拖欠工资|[V2EX](https://www.v2ex.com/t/572452#reply413)|
+|北京、南京|小诚文化传媒有限公司|2019年6月|大小周、无加班工资、无年假、绩效占比过高|[考勤记录](https://i.loli.net/2019/06/22/5d0dd11c7099916753.jpg)|
+|上海|思满科技|2019年9月|至少996，无加班工资|在看准app上花钱洗评论 kpi随意克扣。[真实的评价](https://i.loli.net/2019/06/22/5d0dd3da9640210875.jpg)[真是评价](https://i.loli.net/2019/06/22/5d0dd3dbee9a994536.jpg)[HR自己写的假评价](https://i.loli.net/2019/06/22/5d0dd3da6617453896.jpg)|
+|上海|上海非码网络科技有限公司|2019年9月|996，无加班费，更不提供加班餐。|[班车通知](https://i.loli.net/2019/06/22/5d0dd4ac3a91b42022.png)[内部论坛](https://i.loli.net/2019/06/22/5d0dd4ae49dbb47592.png)|
+|长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
+|桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
+|杭州|吾诺瀚卓||8:30-18:00，一周6天|https://baijiahao.baidu.com/s?id=1640013112742652456&wfr=spider&for=pc|
+|临沂|临沂乐卓软件开发有限公司|未知，应该是从成立开始|86.56|仅工作一日无证据，早八点到晚六点半为正常上班时间。|
+|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|东莞|[华勤通讯](http://www.huaqin.com/)|2019年7月|996，每天加班|[知乎](https://www.zhihu.com/question/49628909/answer/522467068)
+|杭州|安徽凯才信息有限公司(呆萝卜)杭州研发中心|2019年6月|996|[内部群通知](https://i.loli.net/2019/07/18/5d2f4d561cc2672533.jpeg)|
+|山东临沂|临沂沂川网络科技有限公司|2019年7月|强制加班|[工作群截图](https://i.loli.net/2019/07/16/5d2d7ea1e938a30364.png)|
+|山东临沂|临沂沂川网络科技有限公司|2019年5月|51强制加班不放假|[工作群截图](https://i.loli.net/2019/07/16/5d2d7edf0e9b462391.png)|
+|山东临沂|临沂沂川网络科技有限公司|2019年4月|端午强制加班不放假|[工作群截图](https://i.loli.net/2019/07/16/5d2d7f1a5e46021101.png)|
+|山东临沂|临沂沂川网络科技有限公司|2019年4月|请假1天扣双倍工资,定修4天(即使某月有5个周日)|[规定照片](https://i.loli.net/2019/07/16/5d2d7f8d4d4a955770.jpg)|
+|山东临沂|临沂沂川电子有限公司|2015年9月|沂川网络招聘用的皮包公司|附录内3个视频,关键证据:视频内宣传板上印有2公司logo|
+|南京|法奔科技|2018年|996,阴阳合同,强制加班,扣离职工资,老板律师知法犯法|正在整理,附上仲裁书|
+|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)}
+|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)}
+|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)}
+|北京|澎思智能|2019年7月|996|[微信截图](https://github.com/wangleipes/996.ICU/blob/master/blacklist/img/%E6%BE%8E%E6%80%9D.png)|
+|南京|[中设设计集团子公司纬信工程咨询公司](http://www.js-wx.com.cn/lxwm.asp)|自公司成立|领导明令8106，工作前三年无年假|[群聊截图1](img/道桥部群聊截图.jpg)，[群聊截图2](img/道桥部群聊截图1.jpg)，[群聊截图3](img/道桥部群聊截图2.jpg)，[签到表7.31](img/签到表7.31.jpg)，[签到表8.1](img/签到表8.1.jpg)|
+|北京|畅捷通信息技术股份有限公司|2019年8月,9月|领导明令996, 每周二四固定加班|[邮件截图](img/畅捷通-996-mail-m.jpg)，[群聊截图](img/畅捷通-996-m.jpg)|
